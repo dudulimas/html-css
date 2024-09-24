@@ -58,8 +58,8 @@ menu > ul > li > a:hover {
 }
 
 main {
-    width: 73vh;
-    
+    width: auto;
+    height: auto;
     background-color: white;
     margin: auto;
     margin-top: 10px;
